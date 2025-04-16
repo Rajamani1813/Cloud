@@ -6,5 +6,6 @@
 - Lambda (Serverless Compute)
 - EC2 (Elastic Compute Cloud)
 - Database(RDS-Relational Database Service),DynamoDB
-- Networking (VPC)
-  ---
+- Networking(VPC)
+
+  ----
