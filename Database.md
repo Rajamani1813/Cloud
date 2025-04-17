@@ -1,17 +1,18 @@
 ## RDS-(Relational Database Service)
+
 Data Base Configuration
 -------------------------------------------------
-
+```
 sudo apt update
 
 sudo apt install mysql-server -y
  
-mysql -h endpoint-link -u admin -p 
+mysql -h endpoint-link -u admin -p
+```
 
 -----------------------------------------------------------
 
-
-	## Create a Database 
+         ## Create a Database 
 	--------------------------------
 
 	CREATE DATABASE mydatabase;
